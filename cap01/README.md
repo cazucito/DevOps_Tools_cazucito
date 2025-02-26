@@ -1,28 +1,23 @@
-# INTRODUCCIÓN A DEVOPS / ESTRATEGIA DE LAS ACTIVIDADES
+# Práctica 1. Introducción a DevOps / Estrategia de las actividades 
 
-## OBJETIVOS
+## Objetivos de la práctica:
 
 Al termino de este capítulo, serás capaz de:
 
 - Conocer la estrategia de desarrollo de los diversos tipos de actividades del curso.
 - Conocer el entorno para la ejecución de los laboratorios.
 
-## DURACIÓN
-
-Tiempo aproximado para esta actividad:
-
+## Duración aproximada:
 - 25 minutos.
 
-## PRERREQUISITOS
-
+## Prerrequisitos
 Para esta actividad se requiere:
 
 - Acceso a Internet.
 
-## INSTRUCCIONES
+## Instrucciones
 
-### TIPOS DE ACTIVIDADES
-
+### Tipos de actividades
 En el curso, existirán diferentes tipos de actividades prácticas:
 
 1. Preguntas.
@@ -32,7 +27,7 @@ En el curso, existirán diferentes tipos de actividades prácticas:
 5. Uso de herramientas de CI/CD.
 6. Uso de máquinas virtuales & contenedores.
 
-### ENTORNOS DE TRABAJO
+### Entorno de trabajo
 
 Con la información provista por tu instructor, realiza las siguientes actividades.
 
@@ -41,22 +36,22 @@ Con la información provista por tu instructor, realiza las siguientes actividad
 En esta actividad, se realizará la conexión al escritorio remoto de la
 máquina virtual.
 
-1. Abre la aplicación **Escritorio Remoto**.
-2. Ingresa la dirección IP de la máquina virtual.
-3. Ingresa el usuario y contraseña proporcionados por tu instructor.
-4. Haz clic en **Conectar**.
+1. Abrir la aplicación **Escritorio Remoto**.
+2. Ingresar la dirección IP de la máquina virtual.
+3. Ingresar el usuario y contraseña proporcionados por tu instructor.
+4. Hacer clic en **Conectar**.
 
 ![Remote Desktop Connection](mm/01-01_RDP.png)
 
 #### Acceso a los equipos de trabajo
 
-En una terminal de comandos ingresa el siguiente comando:
+En una terminal de comandos, ingresar el siguiente comando:
 
 ``` shell
 ssh -p 22 netec@10.1.0.1
 ```
 
-Nota Importante:
+Nota importante:
 
 Recuerda que los datos de conexión serán diferentes para cada participante y cada equipo.
 
@@ -64,7 +59,7 @@ Recuerda que los datos de conexión serán diferentes para cada participante y c
 Windows PowerShell
 Copyright (C) Microsoft Corporation. Todos los derechos reservados.
 
-Prueba la nueva tecnología PowerShell multiplataforma https://aka.ms/pscore6
+Probar la nueva tecnología PowerShell multiplataforma https://aka.ms/pscore6
 
 PS C:\Users\Netec> ssh -p 22 netec@10.1.0.1
 netec@10.1.0.1's password:
@@ -114,7 +109,7 @@ Aunque la configuración puede variar, a continuación se indican los componente
 | JFrog Artifactory  |     [ ]     |     [ ]     |     [X]     |
 
 
-### RESULTADO
+### Resultado
 
 En esta actividad se exploró el entorno para la ejecución de los laboratorios.
 
