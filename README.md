@@ -1,6 +1,6 @@
 # ![Logo](neteclogo.png)
 
-# DEVOPS TOOLS
+# DevOps Tools
 
 **Plataforma de Laboratorio**
 
