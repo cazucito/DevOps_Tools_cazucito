@@ -1,6 +1,6 @@
-# ORQUESTACIÓN DE CONTENEDORES CON KUBERNETES
+# Orquestación de contenedores con Kubernetes 
 
-## OBJETIVOS
+## Objetivos
 
 Al termino de estas actividades, serás capaz de:
 
@@ -9,21 +9,21 @@ Al termino de estas actividades, serás capaz de:
 - Publicar una aplicación Java en un clúster de Kubernetes.
 - Integrar Kubernetes a un flujo de trabajo de Jenkins para el despliegue de aplicaciones.
 
-## DURACIÓN
+## Duración
 
 Tiempo aproximado para esta actividad:
 
 - 140 minutos.
 
-## PRERREQUISITOS
+## Prerrequisitos
 
 Para esta actividad se requiere:
 
 - Acceso a Internet.
 - Acceso mediante SSH a un servidor Linux.
 
-## ACTIVIDADES
+## Actividades
 
-- [Instalación Minikube](a01.md)
-- [Despliegue de Aplicaciones](a02.md)
-- [Jenkins & Kubernetes](a03.md)
+- [Práctica 9.1. Instalación minikube](a01.md)
+- [Práctica 9.2. Despliegue de aplicaciones](a02.md)
+- [Práctica 9.3. Jenkins & Kubernetes](a03.md)
