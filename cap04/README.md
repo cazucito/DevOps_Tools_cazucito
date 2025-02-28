@@ -23,6 +23,6 @@ Para esta actividad se requiere:
 
 ## ACTIVIDADES
 
-- [Instalación](a01.md)
-- [Uso Básico](a02.md)
-- [Servidores Git](a03.md)
+- [Práctica 4.1. Instalación](a01.md)
+- [Práctica 4.2. Uso básico](a02.md)
+- [Práctica 4.3. Servidores Git](a03.md)
