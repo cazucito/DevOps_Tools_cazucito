@@ -1,27 +1,24 @@
-# PRUEBAS DE INTEGRACIÓN
+# Práctica 10. Pruebas de integración
 
-## OBJETIVOS
+## Objetivos de la práctica:
 
 Al termino de este capítulo, serás capaz de:
 
 - Entender y ejecutar pruebas de integración con Cucumber mediante un pipeline de Jenkins.
 
-## DURACIÓN
-
-Tiempo aproximado para esta actividad:
-
+## Duración aproximada:
 - 50 minutos.
 
-## PRERREQUISITOS
+## Prerrequisitos
 
 Para esta actividad se requiere:
 
 - Acceso a Internet.
 - Acceso mediante SSH a un servidor Linux.
 
-## INSTRUCCIONES
+## Intrucciones
 
-### REQUERIMIENTOS PREVIOS
+### Requerimientos previos 
 
 #### Complemento Cucumber Reports
 
@@ -31,7 +28,7 @@ Para poder realizar esta actividad es necesario tener instalado el complemento d
 
 Así, Jenkins podrá leer los archivos `.json` de Cucumber y desplegar un informe más completo. (También puede bastar con la publicación de JUnit si tu framework genera XML.)
 
-### PIPELINE
+### Pipeline
 
 #### Creación de un nuevo proyecto
 
@@ -92,14 +89,14 @@ pipeline {
 }
 ```
 
-- Reemplaza la URL del repositorio de Git en la sección `Checkout` por la URL de tu repositorio.
-- Reemplaza la rama `labs/clients_tests_TU-NOMBRE` por la rama que estás utilizando.
+- Reemplazar la URL del repositorio de Git en la sección `Checkout` por la URL de tu repositorio.
+- Reemplazar la rama `labs/clients_tests_TU-NOMBRE` por la rama que estás utilizando.
 
 Dar clic en el botón `Save`.
 
 ![Jenkins - Pipeline Script](mm/10_01_03_Jenkins_Pipeline_Data.png)
 
-Dedica un momento a revisar el script del *pipeline* y asegúrate de entender cada una de las secciones.
+Dedicar un momento a revisar el script del *pipeline* y asegúrate de entender cada una de las secciones.
 
 #### Ejecución
 
@@ -108,7 +105,7 @@ Para ejecutar el *pipeline* se debe realizar lo siguiente:
 1. En el *Dashboard* de *Jenkins* dar clic en el *pipeline* `BDD-Pipeline`.
 2. En la parte superior derecha, dar clic en el botón `Build Now`.
 
-Analiza la salida de la ejecución del *pipeline* y verifica que no haya errores.
+Analizar la salida de la ejecución del *pipeline* y verificar que no haya errores.
 
 ``` text
 Started by user Usuario Jenkins
@@ -311,11 +308,11 @@ También puedes revisar el *pipeline* en el *Dashboard* de *Jenkins*.
 
 #### Reporte de Cucumber
 
-Da clic la sección de `Cucumber Reports` ubicada en el menú lateral para visualizar el reporte de las pruebas de integración.
+Dar clic la sección de `Cucumber Reports` ubicada en el menú lateral para visualizar el reporte de las pruebas de integración.
 
 ![Jenkins - Cucumber Report](mm/10_01_05_Jenkins_Pipeline_CucumberReport.png)
 
-## RESULTADO
+## Resultado
 
 Al finalizar esta actividad, el participante será capaz de ejecutar pruebas de integración mediante un pipeline de Jenkins.
 
