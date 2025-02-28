@@ -1,26 +1,26 @@
-# SONARQUBE
+# SonarQube
 
-## OBJETIVOS
+## Objetivos
 
 Al termino de estas actividades, serás capaz de:
 
 - Instalar SonarQube.
 - Integrar SonarQube a un flujo de trabajo de Jenkins.
 
-## DURACIÓN
+## Duración
 
 Tiempo aproximado para esta actividad:
 
 - 70 minutos.
 
-## PRERREQUISITOS
+## Prerrequisitos
 
 Para esta actividad se requiere:
 
 - Acceso a Internet.
 - Acceso mediante SSH a un servidor Linux.
 
-## ACTIVIDADES
+## Actividades
 
-- [Instalación](a01.md)
-- [Integración con Jenkins](a02.md)
+- [Práctica 6.1. Instalación](a01.md)
+- [Práctica 6.2. Integración con Jenkins](a02.md)
