@@ -24,6 +24,6 @@ Para esta actividad se requiere:
 
 ## ACTIVIDADES
 
-- [Instalación de Ansible](a01.md)
-- [Despliegue de un sitio web](a02.md)
-- [Despliegue de una WebApp](a03.md)
+- [Práctica 3.1. Instalación de Ansible](a01.md)
+- [Práctica 3.2. Despliegue de un sitio web](a02.md)
+- [Práctica 3.3. Despliegue de una WebApp](a03.md)
