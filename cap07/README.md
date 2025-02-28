@@ -1,28 +1,28 @@
-# ARTEFACTOS (REPOSITORIOS DE BINARIOS)
+# Artefactos (Repositorios de binarios)
 
-## OBJETIVOS
+## Objetivos
 
 Al termino de estas actividades, serás capaz de:
 
 - Instalar JFrog Artifactory.
 - Integrar JFrog Artifactory a un flujo de trabajo de Jenkins.
 
-## DURACIÓN
+## Duración
 
 Tiempo aproximado para esta actividad:
 
 - 70 minutos.
 
-## PRERREQUISITOS
+## Prerrequisitos
 
 Para esta actividad se requiere:
 
 - Acceso a Internet.
 - Acceso mediante SSH a un servidor Linux.
 
-## ACTIVIDADES
+## Actividades
 
-- [Instalación JFrog Artifactory](a01.md)
-- [Integración JFrog Artifactory con Jenkins](a02.md)
-- [EXTRA - Instalación Nexus Repository](a03.md)
-- [EXTRA - Integración Nexus Repository con Jenkins](a04.md)
+- [Práctica 7.1. Instalación JFrog Artifactory](a01.md)
+- [Práctica 7.2. Integración JFrog Artifactory con Jenkins](a02.md)
+- [Práctica 7.3. (Extra) - Instalación Nexus Repository](a03.md)
+- [Práctica 7.4. (Extra) - Integración Nexus Repository con Jenkins](a04.md)
