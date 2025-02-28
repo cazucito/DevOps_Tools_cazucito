@@ -1,6 +1,6 @@
-# ANSIBLE
+# Ansible
 
-## OBJETIVOS
+## Objetivos
 
 Al termino de estas actividades, serás capaz de:
 
@@ -9,20 +9,20 @@ Al termino de estas actividades, serás capaz de:
 - Utilizar roles.
 - Desplegar un sitio web y una aplicación web.
 
-## DURACIÓN
+## Duración
 
 Tiempo aproximado para esta actividad:
 
 - 80 minutos.
 
-## PRERREQUISITOS
+## Prerrequisitos
 
 Para esta actividad se requiere:
 
 - Acceso a Internet.
 - Acceso mediante SSH a un servidor Linux.
 
-## ACTIVIDADES
+## Actividades
 
 - [Práctica 3.1. Instalación de Ansible](a01.md)
 - [Práctica 3.2. Despliegue de un sitio web](a02.md)
