@@ -1,6 +1,6 @@
-# JENKINS
+# Jenkins
 
-## OBJETIVOS
+## Objetivos
 
 Al termino de estas actividades, serás capaz de:
 
@@ -8,20 +8,20 @@ Al termino de estas actividades, serás capaz de:
 - Automatizar flujos de trabajo con Jenkins mediante jobs.
 - Integrar Jenkins con GitHub.
 
-## DURACIÓN
+## Duración
 
 Tiempo aproximado para esta actividad:
 
 - 95 minutos.
 
-## PRERREQUISITOS
+## Prerrequisitos
 
 Para esta actividad se requiere:
 
 - Acceso a Internet.
 - Acceso mediante SSH a un servidor Linux.
 
-## ACTIVIDADES
+## Actividades
 
 - [Práctica 5.1. Instalación](a01.md)
 - [Práctica 5.2. Free Style Job & GitHub](a02.md)
